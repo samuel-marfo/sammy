@@ -1,0 +1,2 @@
+# sammy
+ my first repository
